@@ -2,7 +2,7 @@ import React from "react";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
-import Skills from "./components/Skills";
+// import Skills from "./components/Skills";
 import Projects from "./components/Projects"
 
 export default function App() {
@@ -11,7 +11,7 @@ export default function App() {
      <Navbar />
      <About />
      <Projects />
-     <Skills />
+     {/* <Skills /> */}
      <Contact />
    </main>
   );
