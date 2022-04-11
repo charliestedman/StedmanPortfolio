@@ -8,7 +8,6 @@ export default function Contact() {
           <h2 className="title-font font-semibold text-white tracking-widest text-xs">
             Github:
             <a href="www.github.com/charliestedman">
-              {" "}
               github.com/charliestedman
             </a>
           </h2>
