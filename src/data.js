@@ -33,7 +33,7 @@ export const projects = [
     title: "Note Taker",
     subtitle: "App that was created to take notes",
     description: "See above",
-    image: "./notes.png",
+    image: "./Note Taker.gif",
     link: "https://pacific-reaches-24360.herokuapp.com/",
   },
   {
