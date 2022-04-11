@@ -7,9 +7,14 @@ export default function Contact() {
         <div className="lg:w-1/2 px-6">
           <h2 className="title-font font-semibold text-white tracking-widest text-xs">
             Github:
+            <a href="www.github.com/charliestedman">
+              {" "}
+              github.com/charliestedman
+            </a>
           </h2>
           <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-            Email: charliestedman@yahoo.com
+            Email:
+            <a href="charliestedman@yahoo.com">charliestedman@yahoo.com</a>
           </h2>
           <h2 className="title-font font-semibold text-white tracking-widest text-xs">
             Resume:
