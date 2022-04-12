@@ -12,13 +12,14 @@ export const projects = [
     subtitle: "",
     description:
       "Handy Notes was created to help save your important notes! You can add new notes, save locally and then return to the website later to read them. Once you are done with a note, just hit the delete button. Handy Notes was created using Heroku, JavaScript, Node.js and Express.js. Check it out on Heroku by clicking here! ",
-    image: "./notes.png",
+    image: "./Note Taker.gif",
     link: "https://pacific-reaches-24360.herokuapp.com/",
   },
   {
-    title: "WorkDay Scheduler",
+    title: "ScheduleIT",
     subtitle: "",
-    description: "Helps keep your schedule",
+    description:
+      "ScheduleIT helps keep you on track for your workday. Select a time, enter a note about your meeting and then hit save. Current/Future time is tracked throughout the day by red, grey or green bars and will show you what times you have open! ScheduleIT was created using JavaScript, JQUERY, Bootstrap and MOMENT.js. Please click on this picture to check it out on Heroku! ",
     image:
       "./screenshot-hidden-wave-22130.herokuapp.com-2022.03.22-12_55_07.png",
     link: "https://hidden-wave-22130.herokuapp.com/",
