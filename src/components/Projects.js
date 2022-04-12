@@ -12,7 +12,8 @@ export default function Projects() {
             Projects I've built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem Ipsum,
+            Here are just a few projects that I have created recently. Click on
+            each project to be taken to the deployed version or the github repo.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
