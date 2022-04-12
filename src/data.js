@@ -2,7 +2,8 @@ export const projects = [
   {
     title: "Climb Base!",
     subtitle: "",
-    description: "App that was created to bring climbers together!",
+    description:
+      "Climb Base was created to bring rock climbers together. Select a state, area and wall to add comments and rate rock climbing routes! Site features a user creation section, login and profile pages showing your routes that have been rated. Climb Base was created using JavaScript, MongoDB, Heroku, Express.js, Node.js and Handlebars. Click here to check it out on Heroku!",
     image:
       "./screenshot-hidden-wave-22130.herokuapp.com-2022.03.22-12_55_07.png",
     link: "https://hidden-wave-22130.herokuapp.com/",
@@ -16,10 +17,10 @@ export const projects = [
     link: "https://pacific-reaches-24360.herokuapp.com/",
   },
   {
-    title: "ScheduleIT",
+    title: "Schedule IT",
     subtitle: "",
     description:
-      "ScheduleIT helps keep you on track for your workday. Select a time, enter a note about your meeting and then hit save. Current/Future time is tracked throughout the day by red, grey or green bars and will show you what times you have open! ScheduleIT was created using JavaScript, JQUERY, Bootstrap and MOMENT.js. Please click on this picture to check it out on Heroku! ",
+      "Schedule IT helps keep you on track for your workday. Select a time, enter a note about your meeting and then hit save. Current/Future time is tracked throughout the day by red, grey or green bars and will show you what times you have open! ScheduleIT was created using JavaScript, JQUERY, Bootstrap and MOMENT.js. Please click on this picture to check it out on Heroku! ",
     image:
       "./screenshot-hidden-wave-22130.herokuapp.com-2022.03.22-12_55_07.png",
     link: "https://hidden-wave-22130.herokuapp.com/",
@@ -37,10 +38,11 @@ export const projects = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
   "Express.js",
   "MongoDB",
   "Node.js",
   "GraphQL",
   "Material UI",
+  "Bootstrap",
+  "JQUERY",
 ];
