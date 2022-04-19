@@ -1,4 +1,5 @@
 import React from "react";
+import Pdf from "../Documents/Charlie Stedman Resume.pdf";
 
 export default function Contact() {
   return (
@@ -16,8 +17,8 @@ export default function Contact() {
             Email: charliestedman@yahoo.com
           </h2>
           <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-            <a href=".\public\Charlie Stedman Resume.pdf">
-              Resume - click for a pdf version
+            <a href={Pdf} target="_blank" rel="noreferrer">
+              Resume - click to download a pdf version
             </a>
           </h2>
           <h2 className="title-font font-semibold text-white tracking-widest text-xs">
