@@ -16,8 +16,8 @@ export default function Contact() {
             Email: charliestedman@yahoo.com
           </h2>
           <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-            <a href="https://docs.google.com/document/d/1TNTqBjIW5K7HAxhq8ZmitiyoOfjiKqc55lrUHJ4oEUI/edit?usp=sharing">
-              Resume
+            <a href=".\public\Charlie Stedman Resume.pdf">
+              Resume - click for a pdf version
             </a>
           </h2>
           <h2 className="title-font font-semibold text-white tracking-widest text-xs">
