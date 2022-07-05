@@ -1,5 +1,5 @@
 import React from "react";
-import Pdf from "../documents/Charlie Stedman Resume.pdf";
+import Pdf from "../Documents/Charlie Stedman Resume.pdf";
 
 export default function Contact() {
   return (
